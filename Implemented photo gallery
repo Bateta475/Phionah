@@ -1,0 +1,18 @@
+**HTML structure**
+Html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport"
+content="width=device-width,initial-scale =1.o">
+<title>Gallery</title>
+<link rel="stylesheet"
+href="styles css">
+</head>
+<body>
+<div class="gallery-container">
+<div class="gallery-item">
+<img src= "images/fennec-fox.jpg"alt=fennec fox"><div
+class="caption">Fennec fox</div>
+</div>
